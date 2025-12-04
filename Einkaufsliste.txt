@@ -6,4 +6,5 @@
 - milch
 - pudding
 - hemde
+-schuche
              
