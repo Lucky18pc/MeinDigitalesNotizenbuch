@@ -3,3 +3,6 @@
 - eier
 - Apfel 
 - zucker
+- milch
+- pudding
+             
